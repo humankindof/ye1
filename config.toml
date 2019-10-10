@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Hugo LAMP"
-theme = "hugo-lamp"
+title = "You Earth"
+theme = "lamp"
 googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
 
 [params]
